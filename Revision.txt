@@ -1,0 +1,6 @@
+
+2017-03-09
+- Backup auf bbb
+- gmc, dtaus, hv, hochbild, rh, … entfernt
+- CGI-Loc entfernt
+- Umstellung auf xhtml mit utf-8
