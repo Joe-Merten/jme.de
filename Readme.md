@@ -2,4 +2,4 @@
 
 Sources of my homepage www.jme.de
 
-https://rawgit.com/Joe-Merten/jme.de/master/index.html
+https://rawgit.com/JoeMerten/jme.de/master/index.html
